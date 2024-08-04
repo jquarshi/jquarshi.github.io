@@ -7,7 +7,7 @@ subtitle: Masters in Mechanical Engineering Student @  @ <a href='https://www.pa
 profile:
   align: right
   image: JQuarshie.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
 
 news: true  # includes a list of news items
