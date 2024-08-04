@@ -2,102 +2,68 @@
   type: map
   contents:
     - name: Full Name
-      value: Victor Alves
+      value: Joseph N. Quarshie
     - name: Languages
-      value: English, Portuguese
+      value: English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD Chemical Engineering
-      institution: West Virginia University, USA
-      year: 08/2020 - 05/2024
+    - title: Masters of Science, Mechanical Engineering
+      institution: University of the Pacific, California
+      year: 08/2023 - Present
       description:
-        - Strategies for Process Systems Mapping and Control Based on Operability Analysis, under Dr. Fernando V. Lima's supervision.
-        - <u>GPA:<u> 3.80/4.00
+        - Focusing on utilizing computational science advancements in robotics and scientific simulations.
+        - <u>GPA:<u> 3.90/4.00
         - contents:
-            - Development of emerging techniques for process operability calculations, involving mainly supervised machine-learning, constrained nonlinear programming (NLP) and automatic differentiation (AD) for efficient algorithm development.
-            - Development of an open-source python package for process operability calculations, for ease of use and dissemination of operability algorithms in academia and industry.
-        - title: Control, Optimization and Design for Energy and Sustainability (CODES) Research Group leader.
+            - Understanding how to utilize computational complexity and intelligence to create reliable simualtions and predictive models.
+            - Utilizing software and hardware to create robotics that can handle various different scenarios.
+        - title: Graduate Fellowship (Assistanship)
           contents:
-            - CODES Research Group leader, supervising group activities, as well as organizing the group's semester schedule, workshops, weekly meetings and relevant announcements.
-    - title: Master's Degree (M.Sc.), Chemical Engineering
-      institution: Federal University of Campina Grande, Brazil
-      year: 09/2017 -  03/2020
+            - Tutored Courses; Material Science, Fluid Mechanics, Steel Design, Mechatronics, Water Resources, Geotechnical Engineering.
+    - title: Bachelors of Science, Civil Engineering
+      institution: University of the Pacific
+      year: 08/2019 - 06/2024
       description:
-        - Metamodel-based Numerical Techniques for Self-Optimizing Control.
-        - <u>Academic Coefficient:<u>  10.00/10.00
+        - Key Classes; Finite Element Analysis, Material Science, Structural Engineering, Differential Equations, Mechanics of Materials, Steel Design, Thermodynamics, Fluid Mechanics, Dynamics
+        - <u>GPA:<u>  3.54/4.00
         - contents: 
           - Developed a methodology capable of using Gaussian Process Regression (GPR) to aid the selection of controlled variables (CVs) in an industrial process, following the Self-Optimizing Control (SOC) methodology.
-       
-    - title: Exchange Student, Chemical Engineering (During my Bachelor's Degree)
-      institution: University of Birmingham, United Kingdom
-      year: 09/2014 - 08/2015
-      description: 
-        - Exchange Student, participating in the "Science Without Borders" Brazilian scientific mobility program.
-        - <u>British Degree Classification:<u> Upper Second
-
-    - title: Bachelor of Science, Chemical Engineering 
-      institution: Federal University of Campina Grande, Brazil
-      year: 03/2012 - 03/2017
-      description:
-        - <u>Academic Coefficient:<u> 8.69/10.00
 
 - title: Experience
   type: time_table
   contents:
-    - title: Postdoctoral Fellow
-      institution: Carnegie Mellon University
-      year: 05/2024 - Currently
+    - title: Research & Development Graduate Intern (During Masters)
+      institution: Sandia National Laboratories
+      year: 06/2024 - Present
       description:
-        - Postdoctoral Fellow in Carl Laird's and John Kitchin's research groups.
-    - title: Researcher and Developer (During my Master's degree)
-      institution: Federal University of Campina Grande
-      year: 08/2018 - 03/2020
+        - R&D in the Explosive Materials Division (7K), operating under Steven Y. and Daniel B. 
+    - title: Fluidic R&D Mechanical Engineering Intern
+      institution: TriContinent Scientific
+      year: 06/2022 - 12/2022
       description:
-        - Research and development of a software called BRPWC for Petrobras, an automated software capable of easily selecting the most promising self-optimizing control structures in large-scale, industrial processes.
-    - title: Process Engineering Intern (During my Bachelor's degree)
-      institution: SigmaCT as a contractor to Braskem
-      year: 03/2017 - 09/2017
-      description:
-        - Experience in Vinyl Chloride Monomer (VCM) and Polyvinyl Chloride (PVC) production plants.
+        - Research and Development mainly focusing on the testing and validation of equipment to ensure accurate dispenses of specialized micropipettes.
 
-
-- title: Projects - Software Products
+- title: Certifications
   type: time_table
   contents:
-    - title: <a href="https://meta-control.net/">Metacontrol</a>
-      year: 2019 - currently
-      description: Metacontrol is a Python-based software which assembles several methodologies into a single bundle so that a fast implementation of the Self-Optimizing Control (SOC) technique can be achieved.
-    - title: <a href="https://codes-group.github.io/opyrability/intro.html">Opyrability</a>
-      year: 2022 - currently
-      description: Opyrability - A Python-based package for process operability analysis - is an open-source project for advanced process operability analyses. The opyrability codebase includes the main operability algorithms, supplementary analysis and visualization methods to allow for the assessment of simultaneous design and control objectives early in the conceptual phase.
+    - title: FE Examination, EIT Certification
+      institution: Sandia National Laboratories
+      year: August 17th, 2023
+      description:
+        - Passed the FE exam, earning the Engineer In Training certification.
 
-- title: Honors and Awards
+- title: Projects - A blend of Engineering and Software
   type: time_table
   contents:
-    - year: 2022
-      items: 
-        - Sweeney D., Alves V., Sakhai S., Dinh S. and Lima F. V. Techno-economic Optimization of a Palladium Membrane Reactor for Steam Methane Reforming Industrial Process. AIChE Annual Student Conference, Phoenix, AZ. 2022.
-
-        - 3rd place at the 2022 AIChE undergraduate student poster competition award. Computing and Process Control Group II.
-
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Process Operability Analysis
-      items: 
-        - Development of process operability algorithms and methodologies to facilitate the application in academia and industry, allowing synergy between conceptual design and overall objectives attainment of industrial processes.
-    - title: Supervised machine learning applied to problems of engineering significance.
-      items:
-        - Expertise in using Gaussian Process Regression (GPR) for mapping of steady-state and dynamic process models of the chemical industry.
-    - title: Plantwide control
-      items:
-        - Expertise in developing plantwide control strategies of large-scale, plantwide systems of the industry. 
-        - Development of algorithms and tools to facilitate the obtainment of plantwide control structures.
+    - title: Thermogravimetric Analysis Utilizing a Quartz Crystal Microbalance - Sandia National Laboratories
+      year: 2024 - currently
+      description: Create a procedure to precisely map the isotherm pressure-composition-temperature (PCT) space utilizing a quartz crystal microbalance with a specialized crystal within thermogravimetric analysis.
+    - title: Renovation and Relocation of Fire Station No. 39 - University of the Pacific
+      year: January 2023 - May 2023
+      description: Design, draft and present a unique idea to change the world around you, culminating in an abstract, report and technical presentation. Project Leader; Oversee and direct Geotechnical, Structural and Hydrologic aspects of the proposed project. 
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Traveling, Soccer, Video games.
+    - <u>Hobbies:</u> Photography, Hiking, Soccer, Volleyball, Bouldering, Coding.
