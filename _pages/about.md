@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Fellow in Chemical Engineering @ <a href='https://www.cmu.edu'>Carnegie Mellon University</a>.
+subtitle: Masters in Mechanical Engineering Student @  @ <a href='https://www.pacific.edu/'>University of the Pacific</a>.
 
 profile:
   align: right
-  image: victor_alves.jpg
-  image_circular: false # crops the image to make it circular
+  image: JQuarshie.jpg
+  image_circular: true # crops the image to make it circular
   address: >
 
 news: true  # includes a list of news items
@@ -16,17 +16,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there! 👋
+Greetings! 👋
 
-I am a postdoctoral fellow at [Carnegie Mellon University](https://www.cmu.edu), holding a Ph.D. in Chemical Engineering at [West Virginia University](https://www.wvu.edu/). In addition, I also have an M.Sc. and B.Sc. degrees in Chemical Engineering, both at the [Federal University of Campina Grande, Brazil](https://portal.ufcg.edu.br). 
+I am a current Master's student for Mechanical Engineering at the [University of the Pacific](https://www.pacific.edu/), holding a bachelors in Civil Engineering from the same institution. 
 
-Throughout my career, I have developed algorithms and methods to efficiently solve problems related
-to [Process Systems Engineering (PSE)](https://www.sciencedirect.com/science/article/pii/S0098135421000302), giving me experience in:
+Throughout my career I have explored various different paths to find out what field is right for me. After years of turmoil, I have found the light at the end of the tunnel - Materials Science.
 
-- Process modeling
-- Advanced process control
-- Plantwide control
-- Nonlinear constrained optimization
-- Supervised machine learning.
+- Research and Development
+- Procedure development
+- Machine Learning and Robotics
+- Computational Complexity and Intelligence
 
-My current goal is to conduct further research on the design, modeling, control and assessment of chemical processes. Lastly, I have experience working with the industry, mainly the oil and gas, petrochemical and energy sectors.
+My current goal is to further research in Materials Science in structural materials, allowing me to take my diverse background with me rather than leave it behind. I am aiming to provide research that will help move along the research in fusion.
