@@ -1,11 +1,10 @@
 ---
-layout: page
-title: Opyrability
-description: Opyrability - A Python-based packge for process operability analysis - is an open-source project for advanced process operability analyses. The opyrability codebase includes the main operability algorithms, supplementary analysis and visualization methods to allow for the assessment of simultaneous design and control objectives early in the conceptual phase.
-img: assets/img/opyrability.jpg
-redirect: https://codes-group.github.io/opyrability
+layout: project
+title: Renovation and Relocation of Fire Station No. 39
+description: In this project, we aim to relocate and renovate the existing fire station with a new location and an expanded building. The new building is 8000 square feet and accommodates the housing and leisure of the crew living there while promoting outdoor activities. Multiple low-impact and sustainable measures are incorporated to reduce the overall effect that the building and its construction has on the surrounding environment. Implementing ENVISION and LEED standards throughout the design ensures the building sustainably serves its purpose for many years. Furthermore, as part of the site design, we designated space for expansion in the northern part of the site. Upgrading and improving the resources of the current fire station will allow Fire Station No. 39 to serve the community safely and effectively.
+redirect: https://scholarlycommons.pacific.edu/purcc/2023/events/60/
 importance: 1
-category: work
+category: School
 ---
 
 Every project has a beautiful feature showcase page.
