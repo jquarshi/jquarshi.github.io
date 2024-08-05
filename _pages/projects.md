@@ -5,7 +5,7 @@ permalink: /projects/
 description: All projects I've been involved with or led, split into 2 categories - Work and School.
 nav: true
 nav_order: 2
-display_categories: Work, School
+display_categories: work
 horizontal: false
 ---
 
