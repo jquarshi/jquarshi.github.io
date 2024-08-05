@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Masters in Mechanical Engineering Student @ <a href='https://www.pacific.edu/'>University of the Pacific</a>.
 
