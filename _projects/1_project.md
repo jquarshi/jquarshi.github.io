@@ -5,7 +5,7 @@ description: Thermogravimetric Analysis (TGA) is a common procedure where a samp
 img: assets/img/Slide1.JPG
 redirect: https://www.linkedin.com/in/josephquarshie
 importance: 1
-category: work
+category: Work
 ---
 
 Every project has a beautiful feature showcase page.
