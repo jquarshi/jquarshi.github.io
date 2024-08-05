@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Metacontrol
-description: Metacontrol is a Python-based software that assembles several methodologies into a single bundle so that a fast implementation of the Self-Optimizing Control (SOC) technique can be achieved.
-img: assets/img/metacontrol.JPG
-redirect: https://meta-control.net
-importance: 2
+title: Thermogravimetric Analysis Utilizing a Quartz Crystal Microbalance.
+description: Thermogravimetric Analysis (TGA) is a common procedure where a sample is heated, and the change in mass (mass %) is recorded. Quartz Crystal Microbalances (QCM) are a highly sensitive mass measuring device using shifts in frequency to calculate changes in mass that operate at ambient room temperature (< 100 C). However, the need for specialized QCMs must be utilized to operate in TGA temperatures up to 500 C. Titanium Hydrides have TiHX compositions, where x varies with temperature and pressure; this QCM approach allows for accurate isotherm mapping of the pressure-composition-temperature (PCT) space, supporting precise creation of sub-stoichiometric compounds.
+img: assets/img/Slide1.JPG
+redirect: https://www.linkedin.com/in/josephquarshie
+importance: 1
 category: work
 ---
 
